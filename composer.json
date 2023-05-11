@@ -1,5 +1,5 @@
 {
-    "name": "evolution-cms/salo2",
+    "name": "evolutioncms/salo2",
     "description": "Evocms Docker files for running a basic evo application.",
     "keywords": ["evo", "docker"],
     "license": "MIT",
