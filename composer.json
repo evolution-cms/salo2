@@ -1,6 +1,6 @@
 {
     "name": "evolution-cms/salo2",
-    "description": "Docker files for running a basic evo application.",
+    "description": "Evocms Docker files for running a basic evo application.",
     "keywords": ["evo", "docker"],
     "license": "MIT",
     "require": {
