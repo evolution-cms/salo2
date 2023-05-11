@@ -10,11 +10,11 @@
         "illuminate/support": "^8.0|^9.0|^10.0"
     },
     "bin": [
-        "bin/salo"
+        "bin/salo2"
     ],
     "autoload": {
         "psr-4": {
-            "EvolutionCMS\\Salo\\": "src/"
+            "EvolutionCMS\\Salo2\\": "src/"
         }
     },
     "extra": {
@@ -23,7 +23,7 @@
         },
         "laravel": {
             "providers": [
-                "EvolutionCMS\\Salo\\SaloServiceProvider"
+                "EvolutionCMS\\Salo2\\SaloServiceProvider"
             ]
         }
     },
